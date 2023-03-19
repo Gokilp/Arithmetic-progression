@@ -1,4 +1,4 @@
-# Arithemetic-progression
+# Arithmetic-progression
 
 This code is an implementation of various arithmetic progression (AP) functions in C programming language.
 
